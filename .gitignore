@@ -24,4 +24,8 @@ hs_err_pid*
 replay_pid*
 
 # Eclipse
+<<<<<<< HEAD
  .settings/
+=======
+ .settings/
+>>>>>>> 3b63b967695686655bf1c674e4f9680d8f4015f1
