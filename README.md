@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/WelingtonFranzoso/franzoso-agregador-de-investimentos/blob/main/LICENSE) 
 
 # Sobre o projeto
-Sistema de xadrez utilizando conceitos de lógica de programação e orientação a objetos.
+Sistema de jogo de xadrez utilizando conceitos de lógica de programação e orientação a objetos.
 
 ## Modelo conceitual
 ![Camadas do sistema](https://github.com/acenelio/chess-system-design/blob/master/chess-system-design.png?raw=true)
